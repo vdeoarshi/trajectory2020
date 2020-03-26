@@ -3,7 +3,7 @@
     <name>TRAJECTORY EDUCATION</name>
     <description>Trajectory official app</description>
     <author email="info@trajectoryeducation.com" href="http://trajectoryeducation.com">Trajectory Education team</author>
-    <preference name="phonegap-version" value="cli-6.0.0" />
+    <preference name="phonegap-version" value="cli-9.0.0" />
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
